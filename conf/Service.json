@@ -62,6 +62,69 @@
                 ]
             },
             "id": "dee756b55757848abf81d4d93c97a6f5"
+        },
+        {
+            "serviceDetail": {
+                "folderId": "dee756b55757848abf81d4d93c97a6b3",
+                "id": "dee756b55757848abf81d4d93c97a87f",
+                "name": "hupp",
+                "enabled": "true",
+                "serviceMappings": {
+                    "httpMapping": {
+                        "urlPattern": "\/hupp",
+                        "verbs": {
+                            "verb": [
+                                "GET",
+                                "POST",
+                                "PUT",
+                                "DELETE"
+                            ]
+                        }
+                    }
+                },
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "internal",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "policyRevision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "tracingEnabled",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "wssProcessingEnabled",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "qwerty\/hupp.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "dee756b55757848abf81d4d93c97a87f"
         }
     ]
 }
