@@ -1,6 +1,46 @@
 {
     "policy": [
         {
+            "guid": "c8f3e56a-09e6-4bba-a903-64e9ff294e58",
+            "policyDetail": {
+                "folderId": "dee756b55757848abf81d4d93c97a968",
+                "guid": "c8f3e56a-09e6-4bba-a903-64e9ff294e58",
+                "id": "dee756b55757848abf81d4d93c97a9ad",
+                "name": "werty",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "qwerty\/more folders\/werty.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "dee756b55757848abf81d4d93c97a9ad"
+        },
+        {
             "guid": "749ae562-8eda-4988-8b98-f05ddb9ff637",
             "policyDetail": {
                 "folderId": "dee756b55757848abf81d4d93c97a6b3",

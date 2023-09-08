@@ -6,5 +6,8 @@
       <l7:Folder folderId="0000000000000000ffffffffffffec76" id="dee756b55757848abf81d4d93c97a6b3" version="1">
         <l7:Name>qwerty</l7:Name>
       </l7:Folder>
+      <l7:Folder folderId="dee756b55757848abf81d4d93c97a6b3" id="dee756b55757848abf81d4d93c97a968" version="0">
+        <l7:Name>more folders</l7:Name>
+      </l7:Folder>
     </l7:Folders>
   </l7:Export>
