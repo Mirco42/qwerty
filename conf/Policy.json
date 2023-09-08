@@ -1,0 +1,44 @@
+{
+    "policy": [
+        {
+            "guid": "749ae562-8eda-4988-8b98-f05ddb9ff637",
+            "policyDetail": {
+                "folderId": "dee756b55757848abf81d4d93c97a6b3",
+                "guid": "749ae562-8eda-4988-8b98-f05ddb9ff637",
+                "id": "dee756b55757848abf81d4d93c97a73a",
+                "name": "qwer",
+                "policyType": "Include",
+                "properties": {
+                    "property": [
+                        {
+                            "key": "hasRouting",
+                            "booleanValue": "false"
+                        },
+                        {
+                            "key": "revision",
+                            "longValue": "1"
+                        },
+                        {
+                            "key": "soap",
+                            "booleanValue": "false"
+                        }
+                    ]
+                }
+            },
+            "resources": {
+                "resourceSet": [
+                    {
+                        "tag": "policy",
+                        "resource": [
+                            {
+                                "type": "policy",
+                                "content": "qwerty\/qwer.xml"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "id": "dee756b55757848abf81d4d93c97a73a"
+        }
+    ]
+}
